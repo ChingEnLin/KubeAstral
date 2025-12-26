@@ -127,7 +127,7 @@ function App() {
       <div className="absolute top-0 left-0 w-full z-50 p-4 flex justify-between items-start pointer-events-none">
         <div className="bg-white/90 backdrop-blur shadow-lg rounded-xl p-4 pointer-events-auto border border-gray-200">
           <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-teal-500 bg-clip-text text-transparent mb-2">
-            KubeTown 3D
+            KubeAstral 3D
           </h1>
 
           <div className="flex items-center space-x-2">

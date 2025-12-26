@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/health', (req, res) => {
-    res.json({ status: 'ok', message: 'KubeTown Backend is running' });
+    res.json({ status: 'ok', message: 'KubeAstral Backend is running' });
 });
 
 app.get('/contexts', (req, res) => {

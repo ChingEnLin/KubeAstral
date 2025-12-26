@@ -4,7 +4,7 @@
 
 Gone are the days of flat YAML lists and tables. KubeAstral renders your nodes, namespaces, deployments, and pods as a cohesive, functional sci-fi space station, allowing for intuitive monitoring and spatial awareness of your cluster's health and topology.
 
-![Orbital Station](https://via.placeholder.com/800x450?text=KubeAstral+Visualization)
+![Orbital Station](./public/orbital-station.png)
 *(Note: Replace with actual screenshot)*
 
 ## 🌌 Core Concepts
